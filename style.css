@@ -20,3 +20,9 @@ div{
 .caja{
     width: 400px;
 }
+.tituloNuevo{
+    text-align: center;
+    width: 50%;
+    margin: 20px;
+    
+}
